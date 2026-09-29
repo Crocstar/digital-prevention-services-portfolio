@@ -6,14 +6,14 @@ eleventyNavigation:
   parent: Screening
 ---
 
-## Replacing NBSS (the National Breast Screening Service)
+## Replacing NBSS (the National Breast Screening System)
 
 The processes involved in breast screening include identifying participants, arranging appointments, taking mammograms, reading images, and recording results.
 
 The systems currently used by breast screening offices (BSOs) to manage these tasks are no longer fit for purpose. By 2029, we aim to replace them with modern, digital services under the name Rubie (Run Breast Screening in England).
 
 > [!NOTE] Sign up to email news updates
-> Subscribe to the [Breast Screening Digital Digest](https://forms.office.com/Pages/ResponsePage.aspx?id=slTDN7CF9UeyIge0jXdO45mS-NvFy31Gqzkcb-jJwqpUNkJCWFlFOUFBTVdYRDU1SEtHRzJSNzdBNC4u) (Microsoft Forms) for the latest updates. More information is available on [NHS Futures](https://future.nhs.uk/vaccsandscreening/view?objectId=60311632) (login required), including [previous newsletters](https://future.nhs.uk/vaccsandscreening/view?objectId=66919568).
+> Subscribe to the [Breast Screening Digital Digest](https://confirmsubscription.com/h/d/344422D7323443C4) for the latest updates. More information is available on [NHS Futures](https://future.nhs.uk/vaccsandscreening/view?objectId=60311632) (login required), including [previous newsletters](https://future.nhs.uk/vaccsandscreening/view?objectId=66919568).
 
 ### Created for the NHS, by the NHS
 
